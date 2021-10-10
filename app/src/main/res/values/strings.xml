@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundoAndroid</string>
+    <string name="TituloVentana">Contador</string>
+    <string name="Boton_Aumentar">Aumentar</string>
+</resources>
